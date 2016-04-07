@@ -1,6 +1,8 @@
 
 .nav .container {
-	background-color: ;
+	color: white;
+	background-color:black;
+
 }
 
 
@@ -23,37 +25,62 @@
 
 }
 
-.jumbotron{
 
-}
-
-.jumbotron .container {
-	text-align: center;
+.header {
+	text-align: left;
 	position: relative;
 	top: 100px;
 	left: 100px;
+	background-color: #CCCCCC;
+	width: 80%;
+
+
 
 }
 
-.jumbotron h1{
-	color: #fff;
-	font-size: 18px;
+.header h1{
+	color: black;
+	font-size: 60px;
 	font-family: 'Shift',sans-serif;
 	font-weight: bold;
 
 
+
+
 }
 
 
-.jumbotron p{
-	font-size: 28px;
-	color: #fff;
-}
-
-
-.learnmore {
+.header  p{
+	font-size: 20px;
+	color: black;
+	
 
 }
+
+.row{
+	width: 80%;
+}
+
+.context{
+		position: relative;
+		top: 150px;
+
+
+}
+
+#box1{
+	background-color:#CCCCCC;
+	height: 100px;
+	
+}
+
+#box2{
+	border-style:solid;
+	border-color: black;
+	border-width: 1px;'
+	height: 100px;
+}
+
 
 /* Desktop middle size */ @media screen and ( min-width:992 px ){
 .col-md-1 {width: 8.33%;}
