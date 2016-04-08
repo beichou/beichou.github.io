@@ -1,5 +1,18 @@
 body{
 	background-color: #FFEB7D;
-	color: 
+	margin: 150px 150px;
+
+
+
+}
+
+.tittle{
+	font-size: 24px;
+	color: green;
+
+}
+
+.context{
+	width: 800px;
 
 }
