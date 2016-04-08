@@ -30,15 +30,15 @@ list-style: none;
 
 #portfolio{
 
-  height: 800px;
+  height: 400px;
 }
 
 .menu{
  
-  width: 30%;
+  width: 25%;
   display: block;
   float: left;
-  border: solid 10px white;
+
 
 
 }
