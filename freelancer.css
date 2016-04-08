@@ -35,15 +35,23 @@ list-style: none;
 
 .menu{
  
-  width: 33%;
+  width: 30%;
   display: block;
   float: left;
+  border: solid 10px white;
+
 
 }
 
 #about{
   text-align: center;
 
+}
+
+.aboutme{
+  width: 80%;
+  margin: 0 auto;
+  text-align: left;
 }
 
 p {
